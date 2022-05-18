@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Apenas testando JestJS",
     "main": "index.js",
-    "author": "",
+    "author": "ribolino",
     "license": "ISC",
     "scripts": {
         "test": "jest"
